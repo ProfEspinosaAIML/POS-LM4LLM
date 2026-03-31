@@ -43,4 +43,4 @@ To run these notebooks, ensure you have the following environment configured:
 * **NLTK Data:** The notebooks will automatically attempt to download `punkt_tab`, `averaged_perceptron_tagger_eng`, and `treebank`.
 
 ## Educational Philosophy
-This workshop utilizes **Active Learning** and **Instructional Design** principles. By integrating AI-generated visual metaphors (via Veo and Gemini) and real-time data exploration in VS Code, we bridge the gap between abstract statistical theory and modern industrial application. [cite_start]The goal is to demystify the "black box" of language models, showing that even the most advanced LLMs are rooted in these fundamental probabilistic identities[cite: 46, 56, 99].
+This workshop utilizes **Active Learning** and **Instructional Design** principles. By integrating AI-generated visual metaphors (via Veo and Gemini) and real-time data exploration in VS Code, we bridge the gap between abstract statistical theory and modern industrial application. The goal is to demystify the "black box" of language models, showing that even the most advanced LLMs are rooted in these fundamental probabilistic identities.
